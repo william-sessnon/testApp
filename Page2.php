@@ -2,6 +2,6 @@
 <head>
 </head>
 <body>
-<a href="index.html">Page 1</a>
+<a href="index.php">Page 1</a>
 </body>
 </html>
